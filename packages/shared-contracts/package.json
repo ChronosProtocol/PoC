@@ -8,7 +8,7 @@
     "url": "https://sablier.com"
   },
   "bugs": {
-    "url": "https://github.com/sablier-labs/v1-protocol/issues"
+    "url": "https://github.com/sablier-labs/legacy-contracts/issues"
   },
   "dependencies": {
     "@openzeppelin/contracts": "2.3.0"
@@ -23,7 +23,7 @@
     "/mocks",
     "/test"
   ],
-  "homepage": "https://github.com/sablier-labs/v1-protocol/tree/develop/packages/shared-contracts#readme",
+  "homepage": "https://github.com/sablier-labs/legacy-contracts/tree/develop/packages/shared-contracts#readme",
   "license": "LGPL-3.0",
   "main": "./contracts",
   "publishConfig": {
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sablier-labs/v1-protocol.git",
+    "url": "https://github.com/sablier-labs/legacy-contracts.git",
     "directory": "packages/shared-contracts"
   },
   "resolutions": {

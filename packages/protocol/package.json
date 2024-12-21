@@ -8,7 +8,7 @@
     "url": "https://sablier.com"
   },
   "bugs": {
-    "url": "https://github.com/sablier-labs/v1-protocol/issues"
+    "url": "https://github.com/sablier-labs/legacy-contracts/issues"
   },
   "dependencies": {
     "@openzeppelin/contracts": "2.3.0"
@@ -43,14 +43,14 @@
   "files": [
     "/contracts"
   ],
-  "homepage": "https://github.com/sablier-labs/v1-protocol/tree/develop/packages/protocol#readme",
+  "homepage": "https://github.com/sablier-labs/legacy-contracts/tree/develop/packages/protocol#readme",
   "license": "LGPL-3.0",
   "publishConfig": {
     "access": "public"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sablier-labs/v1-protocol.git",
+    "url": "https://github.com/sablier-labs/legacy-contracts.git",
     "directory": "packages/protocol"
   },
   "resolutions": {

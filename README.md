@@ -1,6 +1,6 @@
-# Sablier V1 [![CircleCI](https://circleci.com/gh/sablier-labs/v1-protocol.svg?style=svg)](https://circleci.com/gh/sablier-labs/v1-protocol) [![Coverage Status](https://coveralls.io/repos/github/sablier-labs/v1-protocol/badge.svg?branch=develop)](https://coveralls.io/github/sablier-labs/v1-protocol?branch=develop) [![Styled with Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io) [![Commitizen Friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) [![License: LGPL3.0](https://img.shields.io/badge/License-LGPL%20v3-008033.svg)](https://opensource.org/licenses/lgpl-3.0)
+# Sablier Legacy [![CircleCI](https://circleci.com/gh/sablier-labs/legacy-contracts.svg?style=svg)](https://circleci.com/gh/sablier-labs/legacy-contracts) [![Coverage Status](https://coveralls.io/repos/github/sablier-labs/legacy-contracts/badge.svg?branch=develop)](https://coveralls.io/github/sablier-labs/legacy-contracts?branch=develop) [![Styled with Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io) [![Commitizen Friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) [![License: LGPL3.0](https://img.shields.io/badge/License-LGPL%20v3-008033.svg)](https://opensource.org/licenses/lgpl-3.0)
 
-This is the source code of the Sablier V1 token streaming protocol, which is a legacy release. The most recent release is V2 and can be found [here](https://github.com/sablier-labs/v2-core). For more details about how Sablier works, check out our docs at [docs.sablier.com](https://docs.sablier.com)/.
+This is the source code of the Sablier Legacy protocol, which has been superseded by [Sablier Lockup](https://github.com/sablier-labs/v2-core). For more details about how Sablier works, check out our docs at [docs.sablier.com](https://docs.sablier.com).
 
 This repo is structured as a monorepo:
 
@@ -21,8 +21,8 @@ $ truffle compile --all
 $ truffle migrate --reset --network development
 ```
 
-Alternatively, if you simply want to use the UI, head to [v1-pay.sablier.com](https://v1-pay.sablier.com) to create streams and
-[v1-app.sablier.com](https://v1-app.sablier.com) to withdraw from streams. You'll need an Ethereum wallet and some ERC20 tokens.
+Alternatively, if you simply want to use the UI, head to
+[legacy-recipient.sablier.com](https://legacy-recipient.sablier.com) to withdraw from streams.
 
 ## Contributing :raising_hand_woman:
 
